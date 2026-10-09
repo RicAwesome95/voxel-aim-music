@@ -279,5 +279,47 @@
     "file": "where-have-you-been.mp3",
     "added": "2026-10-09",
     "length": 241
+  },
+  {
+    "title": "BAD",
+    "artist": "ATEEZ",
+    "file": "bad.mp3",
+    "added": "2026-10-10",
+    "length": 199
+  },
+  {
+    "title": "Panini",
+    "artist": "Lil Nas X",
+    "file": "panini.mp3",
+    "added": "2026-10-10",
+    "length": 116
+  },
+  {
+    "title": "Earrings",
+    "artist": "Malcolm Todd",
+    "file": "earrings.mp3",
+    "added": "2026-10-10",
+    "length": 150
+  },
+  {
+    "title": "Everything I Am",
+    "artist": "Kanye West",
+    "file": "everything-i-am.mp3",
+    "added": "2026-10-10",
+    "length": 228
+  },
+  {
+    "title": "Wake",
+    "artist": "Hillsong Young & Free",
+    "file": "wake.mp3",
+    "added": "2026-10-10",
+    "length": 269
+  },
+  {
+    "title": "Pepito Manaloto Theme Song",
+    "artist": "Michael V.",
+    "file": "pepito-manaloto-theme-song.mp3",
+    "added": "2026-10-10",
+    "length": 167
   }
 ]
