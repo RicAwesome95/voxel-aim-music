@@ -356,5 +356,47 @@
     "file": "forget.mp3",
     "added": "2026-10-13",
     "length": 160
+  },
+  {
+    "title": "Band4Band",
+    "artist": "Central Cee, Lil Baby",
+    "file": "band4band.mp3",
+    "added": "2026-10-20",
+    "length": 151
+  },
+  {
+    "title": "It Ain't Me",
+    "artist": "Kygo, Selena Gomez",
+    "file": "it-aint-me.mp3",
+    "added": "2026-10-20",
+    "length": 222
+  },
+  {
+    "title": "Grenade",
+    "artist": "Bruno Mars",
+    "file": "grenade.mp3",
+    "added": "2026-10-20",
+    "length": 225
+  },
+  {
+    "title": "Party Rock Anthem",
+    "artist": "LMFAO",
+    "file": "party-rock-anthem.mp3",
+    "added": "2026-10-20",
+    "length": 260
+  },
+  {
+    "title": "Again",
+    "artist": "Fetty Wap",
+    "file": "again.mp3",
+    "added": "2026-10-20",
+    "length": 312
+  },
+  {
+    "title": "GGEZ",
+    "artist": "Kaien Sugar, M.Sasuke",
+    "file": "ggez.mp3",
+    "added": "2026-10-20",
+    "length": 152
   }
 ]
